@@ -113,4 +113,4 @@ person1.greeting = function() {
 // ======== Using the create() method ========
 let person2 = Object.create(person1);
 person2.name;
-person2.greeting();
+person2.greeting
